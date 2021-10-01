@@ -16,9 +16,7 @@ function generateProgressBar() {
 
 const readme = `\
 ### Hi there 👋
-⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
----
-⏰ Updated on ${new Date().toUTCString()}
+⏳ Year progress
 ![Progress Bar CI](https://github.com/AhDai1/AhDai1/workflows/Progress%20Bar%20CI/badge.svg)
 
 ![](https://raw.githubusercontent.com/AhDai1/AhDai1/main/assets/github-contribution-grid-snake.svg)
