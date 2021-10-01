@@ -15,7 +15,7 @@ function generateProgressBar() {
 
 
 const readme = `\
-### Hi there 👋
+### Hi there 
 Year progress
 ![Progress Bar CI](https://github.com/AhDai1/AhDai1/workflows/Progress%20Bar%20CI/badge.svg)
 
