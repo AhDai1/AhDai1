@@ -37,7 +37,7 @@ const readme = `\
 
 I'm AhDai, a programmer who loves coding.
 
-- 🔭 I’m currently studying in Zhuzhou, hoping to live a better life. And always stay positive.
+- 🔭 I’m currently studying in HUT, hoping to live a better life. And always stay positive.
 - 🤔 My blog 👉 https://ahdai1.github.io
 - 📫 My E-mail: 1305377980@qq.com        
 
