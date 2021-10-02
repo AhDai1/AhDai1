@@ -29,7 +29,7 @@ const readme = `\
 
 ---
 ### My GitHub Contributions    
-![](https://raw.githubusercontent.com/AhDai1/AhDai1/main/assets/github-contribution-grid-snake.svg)          
+![](https://raw.githubusercontent.com/AhDai1/AhDai1/assets/github-contribution-grid-snake.svg)          
 ### About me      
 [![Angola peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhDai1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhDai1&layout=compact&hide_border=true&langs_count=10)
